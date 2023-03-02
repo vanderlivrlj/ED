@@ -5,6 +5,7 @@ public class VetorTeste {
     public static void main(String[] args) {
         Aluno a1 = new Aluno("João");
         Aluno a2 = new Aluno("José");
+        Aluno a4 = new Aluno("Vanderli");
 
         Vetor lista = new Vetor();
 
