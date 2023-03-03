@@ -14,6 +14,7 @@ public class VetorTeste {
         System.out.println(lista.tamanho());
         lista.adiciona(a2);
         System.out.println(lista.tamanho());
+        lista.adiciona(a4);
 
         System.out.println(lista);
 
